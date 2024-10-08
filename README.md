@@ -44,7 +44,7 @@ Para instalar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
    npm run dev
    ```
 
-5. Abre tu navegador y visita `(https://ipoint.netlify.app/)` para ver la aplicación en acción.
+5. Abre tu navegador y visita `https://ipoint.netlify.app/` para ver la aplicación en acción.
 
 ## Contribuciones
 
