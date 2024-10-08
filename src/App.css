@@ -1,0 +1,39 @@
+/* App.css */
+:root {
+  --color-negro: #000000;
+  --color-dorado: #D4AF37;
+  --color-blanco: #FFFFFF;
+  --color-gris-oscuro: #4A4A4A;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
+  color: var(--color-gris-oscuro);
+}
+
+h1, h2, h3 {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* App.css */
+button {
+  transition: transform 0.2s;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
